@@ -3,7 +3,6 @@
 """settings"""
 
 from urls import urls
-from handlers.uimodules import *
 
 import tornado.web
 import os
